@@ -1,0 +1,101 @@
+ 
+ 
+ 
+ 
+ 
+
+
+AWS ORGANISATIONS:-
+
+
+ 
+
+ 
+
+ 
+ 
+
+Resources we enabled in our organization:-
+
+Amazon GuardDuty
+Amazon GuardDuty is a continuous security monitoring service. Amazon GuardDuty can help to identify unexpected and potentially unauthorized or malicious activity in your AWS environment.
+
+Amazon Inspector
+Amazon Inspector automatically discovers workloads, such as Amazon EC2 instances, containers, and Lambda functions, and scans them for software vulnerabilities and unintended network exposure.
+Amazon Q
+Amazon Q generates, tests, and debugs code. It has multistep planning and reasoning capabilities that can transform and implement new code generated from developer requests. Amazon Q also connects to, and analyzes, enterprise data repositories, making it easier for employees to get answers to questions across business data.
+Amazon VPC IP Address Manager
+Amazon VPC IP Address Manager (IPAM) is a VPC feature that makes it easier for you to plan, track, and monitor IP addresses for your AWS workloads. Using AWS Organizations allows you to monitor IP address usage throughout your organization and share IP address pools across member accounts.
+
+AWS Control Tower
+AWS Control Tower offers a straightforward way to set up and govern an AWS multi-account environment, following prescriptive best practices.	Enabled	March 16, 2021, 10:26 (UTC+5:30)
+AWS Health
+AWS Health provides ongoing visibility into your resource performance and the availability of your AWS services and accounts. AWS Health delivers events when your AWS resources and services are impacted by an issue or will be affected by upcoming changes. You can use the organizational view feature for AWS Health to get visibility into all events that occur in your organization. You can also use the AWS Health API to access the information programmatically.		
+AWS IAM Identity Center (AWS Single Sign-On)
+A managed service that makes it easy for you to centrally provide and manage single sign-on access to all your AWS accounts and cloud applications.
+
+AWS Trusted Advisor
+AWS Trusted Advisor inspects your AWS environment and makes recommendations when opportunities exist to save money, to improve system availability and performance, or to help close security gaps.
+CloudFormation StackSets
+An extension of AWS CloudFormation stacks functionality that enables you to create, update, or delete stacks across multiple accounts and regions with a single operation.	Enabled	April 06, 2021, 15:21 (UTC+5:30)
+CloudTrail
+A service that helps you enable governance, compliance, and operational and risk auditing of your AWS account.	Enabled	January 12, 2023, 14:16 (UTC+5:30)
+Compute Optimizer
+A service that recommends optimal AWS compute resources based on an analysis of the historical utilization metrics of your resources.	Enabled	May 04, 2023, 16:04 (UTC+5:30)
+Config
+A service that enables you to assess, audit, and evaluate the configurations of your AWS resources. It continuously monitors and records your AWS resource configurations.		
+Cost Optimization Hub
+Cost Optimization Hub allows you to easily identify, filter, and aggregate AWS cost optimization recommendations across your AWS accounts and AWS Regions. It makes recommendations on resource rightsizing, idle resource deletion, Savings Plans, and Reserved Instances. With a single dashboard, you avoid having to go to multiple AWS products to identify cost optimization opportunities.
+Firewall Manager
+A service to help simplify your AWS WAF administration and maintenance tasks across accounts and multiple resources. Use Firewall Manager to set up your firewall rules just once and automatically apply them across accounts and to all resources, including new ones.	Enabled	December 15, 2021, 19:08 (UTC+5:30)
+IAM Access Analyzer
+Achieving least privilege is a continuous cycle to grant the right fine-grained permissions as your requirements evolve. AWS Identity and Access Management (IAM) Access Analyzer helps you set, verify, and refine permissions throughout each step of this cycle.		
+RAM
+A service that enables you to share AWS resources that you own with other AWS accounts.	Enabled	November 24, 2021, 15:50 (UTC+5:30)
+S3 Storage Lens
+A service that aggregates your usage and activity metrics and displays the information in an interactive dashboard on the Amazon S3 console or through a metrics data export that can be downloaded in CSV or Parquet format.	Enabled	January 02, 2022, 11:44 (UTC+5:30)
+Security Hub
+AWS Security Hub provides you with a comprehensive view of the security state of your AWS resources. Security Hub collects security data from across AWS accounts and services, and helps you analyze your security trends to identify and prioritize the security issues across your AWS environment.		
+Systems Manager
+A service that enables visibility and control of your AWS resources.
+
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+  
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+\
+ 
+ 
+
